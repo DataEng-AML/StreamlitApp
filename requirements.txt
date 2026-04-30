@@ -30,11 +30,15 @@ Requests
 scikit_learn
 scipy
 seaborn
+statsmodels
 streamlit
 streamlit_extras
 streamlit_folium
+streamlit_sortables
+suod
 tabulate
+taipy
 tqdm
 torch
 ipywidgets
-pysqlite3-binary
+pysqlite-binary
