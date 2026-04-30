@@ -1,5 +1,5 @@
 chardet
-crewai==0.175.0
+crewai
 chromadb
 combo
 fancyimpute
@@ -36,5 +36,5 @@ streamlit_folium
 tabulate
 tqdm
 torch
-ipywidgets==8.1.3
+ipywidgets
 pysqlite3-binary
