@@ -1,0 +1,9 @@
+# Force modern versions for all the "backtracking" packages
+tornado>=6.3.0
+watchdog>=4.0.0
+rich>=13.0.0
+chromadb>=0.4.0
+streamlit-extras>=0.4.0
+pydeck>=0.8.0
+smmap>=5.0.0
+streamlit-folium>=0.1.0
