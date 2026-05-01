@@ -1,0 +1,42 @@
+setuptools
+# Core Streamlit and data processing
+pandas
+numpy
+
+# Visualization
+plotly
+matplotlib
+seaborn
+missingno
+
+# Machine Learning
+scikit-learn
+scipy
+
+# LLM and AI
+langchain
+langchain-community
+langchain-experimental
+pydantic
+
+# Utilities
+python-dotenv
+requests
+chardet
+tqdm
+inflection
+
+# Data handling
+python-dateutil
+seaborn<=0.13.2
+streamlit<=1.37.1
+streamlit_extras<=0.7.7
+streamlit_folium<=0.24.0
+tqdm<=4.66.5
+# Additional dependencies found in code
+statsmodels
+nltk
+streamlit_sortables
+python-dateutil
+spellchecker
+IPython
